@@ -21,26 +21,23 @@
 }
 
 body {
- font-size: 20px;
+ font-size: 15px;
+ margin: 33px;
 }
 
-.top-tit {
-  display: block;
+.top-title {
   margin: 33px;
 }
 
 .top-text1 {
-  display: block;
   margin: 33px;
 }
 
 .top-text2 {
-  display: block;
   margin: 33px;
 }
 
 .top-link {
-  display: block;
   margin: 33px;
 }
 
@@ -48,8 +45,12 @@ body {
  font-size: 20px;
 }
 
-.table {
+.show-title {
+  margin: 33px;
+}
 
+.show-body {
+  margin: 33px;
 }
 
 .new-title {
